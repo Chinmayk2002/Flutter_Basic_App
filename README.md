@@ -1,2 +1,2 @@
 # Flutter_Basic_App
-A basic flutter app with widgets
+A basic flutter food description app with widgets
